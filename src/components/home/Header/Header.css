@@ -1,0 +1,108 @@
+header{
+  background: url(../../../assets/wallpaperflare.com_wallpaper\ \(2\).jpg) center no-repeat;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  overflow: hidden;
+  text-align: center;
+}
+header .header-overlay{
+  background-color: rgba(110, 58, 152, 0.8);
+  padding: 25px 0;
+  height: 100%;
+}
+header h2{
+  color: #fff;
+  font-size: 40px;
+  font-weight: bold;
+  margin: 25px 0;
+  letter-spacing: 1px;
+}
+header p{
+  color: #fff;
+  font-size: 16px;
+  line-height: 40px;
+  margin: 25px 0;
+}
+header form{
+  width: 640px;
+  background-color: #fff;
+  border-radius: 30px;
+  margin: 25px auto;
+}
+header form input{
+  padding: 15px 20px;
+  width: 450px;
+  background-color: #fff;
+  border-radius: 30px;
+  color: #1f1f1f;
+  font-size: 16px;
+  border: 1px solid #fff;
+  outline: none;
+}
+header form button{
+  background-color: rgba(110, 58, 152);
+  padding: 10px 20px;
+  border-radius: 30px;
+  border: 1px solid #fff;
+  color: #fff;
+  font-size: 16px;
+  margin: 0 5px;
+  cursor: pointer;
+  transition: transform 0.5s;
+  text-transform: uppercase;
+}
+header form button:hover{
+  transform: translateY(-5px);
+}
+@media (max-width: 1176px) {
+  header h2{
+  font-size: 36px;
+  }
+  header p{
+    font-size: 14px;
+  }
+    header form{
+    width: 500px;
+  }
+  header form input{
+    width: 350px;
+    padding: 12px 20px;
+  }
+  header form button{
+    font-size: 12px;
+    padding: 7px 10px;
+  }
+}
+@media (max-width: 764px) {
+  .row{
+    width: 300px;
+    margin: 0 auto;
+  }
+  header h2{
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 25px 0;
+  letter-spacing: 1px;
+  }
+  header p{
+    color: #fff;
+    font-size: 12px;
+    line-height: 40px;
+    margin: 25px 0;
+  }
+  header form{
+    width: 290px;
+  }
+  header form input{
+    width: 145px;
+    padding: 12px 20px;
+  }
+  header form button{
+    width: fit-content;
+    font-size: 10px;
+    padding: 7px 10px;
+  }
+}
+
