@@ -98,8 +98,12 @@
   border: 1px solid rgb(146, 39, 0);
 }
 @media (max-width:767px){
+  .workProgress .container .work-content .header-section h1 {
+    text-wrap: nowrap;
+    font-size: 27px;
+  }
   .workProgress .container .work-content .main-content .item {
-  width: auto;
+  width: 100%;
 }
   .workProgress .container .work-content .main-content .l {
   display: none;

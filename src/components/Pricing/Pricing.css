@@ -4,6 +4,7 @@
   text-align: center;
   padding: 80px 0;
   position: relative;
+  background-color: #f8f9fa;
 }
 .pricing .container {
   width: 80%;
@@ -28,9 +29,6 @@
 .pricing .header-section p {
   color: #a1a1a1;
   padding: 20px 0;
-}
-.pricing .container .pricing-content .cards {
-  background-color: #fff;
 }
 .pricing .container .pricing-content .cards .card {
   width: 23%;

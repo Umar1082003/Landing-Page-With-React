@@ -53,7 +53,7 @@ header form button{
   text-transform: uppercase;
 }
 header form button:hover{
-  transform: translateY(-5px);
+  transform: translateY(-3px);
 }
 @media (max-width: 1176px) {
   header h2{
@@ -104,5 +104,15 @@ header form button:hover{
     font-size: 10px;
     padding: 7px 10px;
   }
+}
+@media (max-width: 320px){
+  header .header-overlay .row > *,
+header .header-overlay .row div form{
+  width: 90%;
+}
+header form input {
+  width: 110px;
+  padding: 12px 20px;
+}
 }
 
