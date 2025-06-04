@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Landing-Page-With-React/static/css/main.8e352c01.css",
+    "main.css": "/Landing-Page-With-React/static/css/main.95a6cb79.css",
     "main.js": "/Landing-Page-With-React/static/js/main.875fd02c.js",
     "static/js/453.7ee4257d.chunk.js": "/Landing-Page-With-React/static/js/453.7ee4257d.chunk.js",
     "static/media/img-2.jpg": "/Landing-Page-With-React/static/media/img-2.03c94a50dea45f3988d3.jpg",
@@ -16,12 +16,12 @@
     "static/media/payment.png": "/Landing-Page-With-React/static/media/payment.57ed52837084fafec903.png",
     "static/media/online-world (1).svg": "/Landing-Page-With-React/static/media/online-world (1).3a222d0d81af2676d84419e34013ac1c.svg",
     "index.html": "/Landing-Page-With-React/index.html",
-    "main.8e352c01.css.map": "/Landing-Page-With-React/static/css/main.8e352c01.css.map",
+    "main.95a6cb79.css.map": "/Landing-Page-With-React/static/css/main.95a6cb79.css.map",
     "main.875fd02c.js.map": "/Landing-Page-With-React/static/js/main.875fd02c.js.map",
     "453.7ee4257d.chunk.js.map": "/Landing-Page-With-React/static/js/453.7ee4257d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e352c01.css",
+    "static/css/main.95a6cb79.css",
     "static/js/main.875fd02c.js"
   ]
 }
